@@ -1,2 +1,2 @@
 # CMU16-385
-self-learning program
+http://16385.courses.cs.cmu.edu/fall2024/
